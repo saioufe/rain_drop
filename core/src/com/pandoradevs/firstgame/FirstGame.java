@@ -17,8 +17,6 @@ import com.badlogic.gdx.utils.TimeUtils;
 
 import java.util.Iterator;
 
-import javax.xml.soap.Text;
-
 public class FirstGame extends ApplicationAdapter {
 
 
